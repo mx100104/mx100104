@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mx100104 arturo galicia from camus guadalajara
+- 👋 Hi, I’m @mx100104 arturo galicia from campus guadalajara
 - 👀 I’m interested in ... carbon & react
 - 🌱 I’m currently learning ... starting education about it
 - 💞️ I’m looking to collaborate on ... cpps project
